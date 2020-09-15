@@ -1,0 +1,54 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Corona",
+      "price": 4.62,
+      "image": "https://padariavillalourdes.com.br/web/image/product.template/1389/image_256/%5B47140%5D%20CERVEJA%20MEXICANA%20CORONA%20EXTRA%20-%20330ML?unique=ebc3437"
+    },
+    {
+      "id": 2,
+      "title": "Beecks",
+      "price": 4.99,
+      "image": "https://images.rappi.com.br/products/2098131802-1588985794695.png?d=200x200"
+    },
+    {
+      "id": 3,
+      "title": "Brahma Extra Red Lager",
+      "price": 3.66,
+      "image": "https://images.rappi.com.br/products/2092867776-1544443173.png?d=200x200"
+    },
+    {
+      "id": 5,
+      "title": "Budweiser",
+      "price": 3.77,
+      "image": "https://courier-images-prod.imgix.net/produc_variant/00009484_ebd6a55e-6de5-455c-a8f5-3b1b4068f732.jpg?auto=compress,format&fit=max&w=undefined&h=undefined&dpr=2"
+    },
+    {
+      "id": 6,
+      "title": "Stella Artois",
+      "price": 4.19,
+      "image": "https://courier-images-prod.imgix.net/produc_variant/00008784_6c5fd031-44be-46d8-85e3-f6762b123e4f.jpg?auto=compress,format&fit=max&w=undefined&h=undefined&dpr=2"
+    },
+    {
+      "id": 4,
+      "title": "Bohemia",
+      "price": 2.99,
+      "image": "https://courier-images-prod.imgix.net/produc_variant/00008790_e7f8bcf4-562c-4de6-950e-9d8c9a8e842c.jpg?auto=compress,format&fit=max&w=undefined&h=undefined&dpr=2"
+    }
+  ]
+}
